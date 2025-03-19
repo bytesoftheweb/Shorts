@@ -1,8 +1,7 @@
 # Shorts
 
 This repository contains various components, organized for easy access and
-reference. Each component is structured by category and numbered for multiple
-variations.
+reference.
 
 ## Structure
 
