@@ -1,6 +1,6 @@
 # Shorts
 
-This repository contains various CSS components, organized for easy access and
+This repository contains various components, organized for easy access and
 reference. Each component is structured by category and numbered for multiple
 variations.
 
